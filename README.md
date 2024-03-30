@@ -1,4 +1,4 @@
-# movie-app
+# movie
  
 #### Filmler web sitesi, html ve css kullanılarak tasarlandı.
  
